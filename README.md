@@ -1,6 +1,6 @@
 # Cybersecurity Track Projects Documentation
 
-Welcome to my repository containing documentation for various cybersecurity projects completed as part of my learning journey. This repository hosts PDF files summarizing projects executed within controlled Cisco virtual environments.
+Welcome to my repository containing documentation for various cybersecurity class projects completed as part of my learning journey. This repository hosts PDF files summarizing projects executed within controlled Cisco virtual environments.
 
 ## About the Documents
 
